@@ -7,6 +7,20 @@
   padding: var(--spacing-medium);
 }
 
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navLinks {
+  display: flex;
+}
+
+.navLinks > * {
+  margin: 0px 1rem;
+}
+
 .grow {
   flex-grow: 1;
 }

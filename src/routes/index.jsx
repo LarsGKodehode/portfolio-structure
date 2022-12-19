@@ -10,9 +10,9 @@ function LandingPage() {
   return (
     <div className={styles.app}>
     {/* header */}
-      <header>
-        <h1>Landing Page</h1>
-        <nav>
+      <header className={styles.navbar}>
+        <h3>Landing Page</h3>
+        <nav className={styles.navLinks}>
           <Link to='/'>Home</Link>
           <Link to='/About'>About</Link>
           <Link to='/Contact'>Contact</Link>
