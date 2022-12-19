@@ -4,7 +4,7 @@ import { useContext } from 'react';
 // Contexts
 import AboutContext from '../../contexts/AboutContext';
 
-// CSS
+// CSS specific to this component
 import styles from './layout.module.css'
 
 function AboutPage() {

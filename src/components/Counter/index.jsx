@@ -1,7 +1,7 @@
 // Libraries
 import { useState } from 'react';
 
-// CSS
+// CSS specific to this component
 import styles from './layout.module.css'
 
 function Counter() {

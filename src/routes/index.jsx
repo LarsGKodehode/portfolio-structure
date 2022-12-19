@@ -3,7 +3,7 @@ import {
   Link
 } from 'react-router-dom'
 
-// CSS
+// CSS specific to this component
 import styles from './layout.module.css'
 
 function LandingPage() {

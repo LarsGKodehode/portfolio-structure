@@ -1,6 +1,6 @@
 import Counter from '../../components/Counter';
 
-// CSS
+// CSS specific to this component
 import styles from './layout.module.css'
 
 function ContactPage() {
