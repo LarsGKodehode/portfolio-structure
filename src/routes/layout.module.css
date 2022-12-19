@@ -2,15 +2,23 @@
   display: flex;
   flex-direction: column;
 
+  position: relative;
+
   min-height: 100vh;
   
   padding: var(--spacing-medium);
+
+  background-image: url("../assets/images/ISS-stock.webp");
+  background-size: cover;
+  background-position: right;
 }
 
 .navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  background-color: aliceblue;
 }
 
 .navLinks {
