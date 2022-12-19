@@ -8,7 +8,7 @@ import styles from './layout.module.css'
 
 function LandingPage() {
   return (
-    <>
+    <div className={styles.app}>
     {/* header */}
       <header>
         <h1>Landing Page</h1>
@@ -28,7 +28,7 @@ function LandingPage() {
       <footer>
       <a href="www.github.com">GitHub</a>
       </footer>
-    </>
+    </div>
   )
 }
 
