@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-// CSS
+// CSS Globals
 import './styles/basic.css'
 import './styles/palette.css'
 import './styles/spacing.css'
