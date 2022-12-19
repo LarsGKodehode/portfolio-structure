@@ -26,7 +26,7 @@ function LandingPage() {
 
     {/* footer */}
       <footer>
-      <a href="www.github.com">GitHub</a>
+      <a href="https://github.com/LarsGKodehode/portfolio-structure">GitHub</a>
       </footer>
     </div>
   )
