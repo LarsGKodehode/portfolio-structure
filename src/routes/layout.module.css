@@ -1,3 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 100vh;
+  
+  padding: var(--spacing-medium);
+}
+
 .grow {
   flex-grow: 1;
 }
